@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [LibreOfficeについて](about/README.md)
    * [LibreOfficeとは](about/article1.md)
-   * [article2](about/article2)
+   * [アプリケーションの種類と特徴](about/article2)
    * [article3](about/article3)
 * [Writerを使う(文書作成)](writer/README.md)
 * [Drawを使う(図版作成)](draw/README.md)
