@@ -1,7 +1,4 @@
 appendix
-
-
-ppendix
 ========
 
 - LibreOfficeのインストール
