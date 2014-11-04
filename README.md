@@ -18,6 +18,8 @@ LibreOffice(リブレオフィス)は、統合オフィスソフトと呼ばれ�
 
 このドキュメントは、[GitBook](https://www.gitbook.io/)を利用して書いています。
 
+nogajun/libreoffice-book: https://github.com/nogajun/libreoffice-book
+
 
 ライセンス
 ----------
