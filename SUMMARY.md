@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [about](about/README)
+* [LibreOfficeについて](about/README)
 
