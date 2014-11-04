@@ -1,7 +1,7 @@
 
 ## Writerの画面構成
 
-Writerの
+Writerの画面構成です。
 
 
 ## 名称と機能一覧
