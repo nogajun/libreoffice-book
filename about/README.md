@@ -7,7 +7,9 @@ LibreOfficeについて
 
 # LibreOfficeとは
 
-LibreOfficeは、誰でも自由に利用できる統合オフィスソフトです。ドイツに拠点を置くThe Document Foundation(TDF:ドキュメント財団)が運営するプロジェクトがオープンソース・ソフトウェアとして開発しています。
+LibreOfficeは、誰でも自由に利用できる統合オフィスソフトです。
+
+ドイツに拠点を置くThe Document Foundation(TDF:ドキュメント財団)が運営するプロジェクトがオープンソース・ソフトウェアとして開発しています。
 
 LibreOfficeは、6つのソフト(機能)から構成されています。
 
