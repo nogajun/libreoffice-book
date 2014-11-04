@@ -9,7 +9,7 @@ LibreOfficeについて
 
 LibreOfficeは、誰でも自由に利用できるオフィスソフトです。
 
-オフィスソフトには、Microsoft OfficeをはじめジャストオフィスやKINGSOFT Officeなど
+オフィスソフトには、Microsoft OfficeをはじめジャストオフィスやKINGSOFT Office、
 
 
 
