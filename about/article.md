@@ -1,7 +1,3 @@
-# Article
-
-----
-
 # LibreOfficeとは
 
 LibreOfficeは、誰でも自由に利用できるオフィスソフトです。
