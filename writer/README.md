@@ -2,14 +2,6 @@ Writerを使う(文書作成)
 ======
 
 
-## LibreOffice Writerとは
-
-LibreOffice Writer(以下Writer)は、文書を作成するためのワープロソフトです。
-文章に図や表を挿入して文書を作成するほかに、長文を作成するとき文章を効率よく扱う機能もあります。
-また、DTP(Desk Top Publishing:卓上出版)の機能も備えているので、作成した文書をレイアウトして整え印刷やPDFへの出力もできます。
-
-----
-
 - LibreOffice Writerを始めよう
   - Writerの画面構成
 - 文書を作成しよう
