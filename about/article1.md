@@ -18,4 +18,6 @@ LibreOfficeは、ドイツに拠点を置くThe Document Foundation (TDF:ドキ�
 
 
 
-## 無償で
+## 無償で利用できる
+
+
