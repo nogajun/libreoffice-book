@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [LibreOfficeについて](about/README.md)
-   * [libreoffice](about/article.md)
    * [Article](about/article.md)
 * [Writerを使う(文書作成)](writer/README.md)
 * [Drawを使う(図版作成)](draw/README.md)
