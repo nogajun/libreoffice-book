@@ -4,7 +4,6 @@
 * [LibreOfficeについて](about/README.md)
    * [libreoffice](about/libreoffice.md)
 * [Writerを使う(文書作成)](writer/README.md)
-   * [lesson1](writer/lesson1)
 * [Drawを使う(図版作成)](draw/README.md)
 * [Impressを使う(プレゼンテーション)](impress/README.md)
 * [Calcを使う(表計算)](calc/README.md)
