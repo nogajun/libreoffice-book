@@ -18,7 +18,7 @@ LibreOfficeは、ドイツに拠点を置くThe Document Foundation (TDF:ドキ�
 
 
 
-# 6つのアプリ
+# 6つのアプリケーション
 
 6つのソフト(機能)から構成されています。
 
