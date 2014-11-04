@@ -16,7 +16,7 @@ LibreOffice(リブレオフィス)は、統合オフィスソフトと呼ばれ�
 このドキュメントについて
 ------------------------
 
-このドキュメントは、My Books - GitBook: https://www.gitbook.io/dashboard
+このドキュメントは、[GitBookMy Books - GitBook: https://www.gitbook.io/dashboard
 
 
 ライセンス
