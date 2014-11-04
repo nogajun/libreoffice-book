@@ -10,4 +10,3 @@ appendix
 - 困った時にはどうする?
   - LibreOfficeコミュニティ
 
-
