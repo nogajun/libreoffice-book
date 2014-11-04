@@ -8,6 +8,7 @@
 * [Writerを使う(文書作成)](writer/README.md)
    * [Writerの画面構成](writer/article1.md)
    * [基本的な使い方を知ろう](writer/article2.md)
+   * [article3](writer/article3)
 * [Drawを使う(図版作成)](draw/README.md)
 * [Impressを使う(プレゼンテーション)](impress/README.md)
 * [Calcを使う(表計算)](calc/README.md)
