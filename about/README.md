@@ -7,9 +7,9 @@ LibreOfficeについて
 
 # LibreOfficeとは
 
-LibreOfficeは、誰でも自由に利用できる統合オフィスソフトです。
+LibreOfficeは、誰でも自由に利用できるオフィスソフトです。
 
-
+オフィスソフトには
 
 
 
