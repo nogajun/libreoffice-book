@@ -8,9 +8,7 @@ LibreOfficeについて
 # LibreOfficeとは
 
 LibreOfficeは、誰でも自由に利用できる統合オフィスソフトです。
-
-
-LibreOfficeは、6つのソフト(機能)から構成されています。
+6つのソフト(機能)から構成されています。
 
 | 機能 | LibreOffice | (参考) Microsoft Office |
 | -- | -- |
