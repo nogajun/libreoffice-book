@@ -14,3 +14,13 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# 
+*.bak
+*~
+.DS_Store
+.\#*
+.~lock\.*\#
+Desktop.ini
+Thumbs.db
+\#*\#
