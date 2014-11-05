@@ -7,5 +7,7 @@
 ![例題](../files/writer-sample1-after.png)
 
 
-## 行を揃える
+## 文字列の位置を揃える
+
+
 
