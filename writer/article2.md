@@ -8,7 +8,7 @@
 
 以下のテキストを入力して、「講座の案内」文書を作成しましょう。
 
-![例題](../files/writer-sample1-before.png)
+a![例題](../files/writer-sample1-before.png)
 
 ## ページを設定する
 
