@@ -10,7 +10,9 @@
 
 ![例題](../files/writer-sample1-before.png)
 
-## ページ設定
+## ページを設定する
+
+
 
 
 
