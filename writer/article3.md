@@ -22,7 +22,7 @@ Writerの初期状態では、英語環境では役に立つ機能だけれど�
 
 ![サイドバーの表示1](../files/writer-sidebar1.png)
 
-
+![](/home/jun/SparkleShare/libreoffice-book/files/writer-sidebar2.png)
 
 
 ## 編集記号を表示する
