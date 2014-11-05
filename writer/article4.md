@@ -4,4 +4,7 @@
 
 ## 例題
 
-![](../files/writer-sample1-after.png)
+![例題](../files/writer-sample1-after.png)
+
+
+##
