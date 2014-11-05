@@ -3,7 +3,7 @@
 
 Writerの画面構成です。名称と機能を確認しておきましょう。
 
-![Writer](/home/jun/SparkleShare/libreoffice-book/files/writer-screen.png)
+![Writer画面構成](/home/jun/SparkleShare/libreoffice-book/files/writer-screen.png)
 
 
 ## 名称と機能一覧
