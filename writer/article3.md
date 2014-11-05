@@ -4,7 +4,7 @@
 
 ----
 
-LibreOfficeを起動した
+LibreOfficeを起動したばかりの初期状態では
 
 
 
