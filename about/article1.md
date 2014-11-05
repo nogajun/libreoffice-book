@@ -19,5 +19,4 @@ LibreOfficeは、ドイツに拠点を置くThe Document Foundation (TDF:ドキ�
 
 
 
-#OpenOffice.orgとLibreOffice
 
