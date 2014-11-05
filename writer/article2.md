@@ -68,7 +68,7 @@ Email: kouza@example.com
 
 ## 文書の編集
 
-入力した文章を
+入力した文章を利用して、
 
 
 
