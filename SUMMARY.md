@@ -9,6 +9,7 @@
    * [Writerの画面構成](writer/article1.md)
    * [文書作成の環境を整える](writer/article3.md)
    * [基本的な使い方を知ろう](writer/article2.md)
+   * [article4](writer/article4)
 * [Drawを使う(図版作成)](draw/README.md)
 * [Impressを使う(プレゼンテーション)](impress/README.md)
 * [Calcを使う(表計算)](calc/README.md)
