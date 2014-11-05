@@ -78,6 +78,11 @@ Email: kouza@example.com
 
 
 
+## 文字列の切り取り、コピーと貼り付け。
+
+
+
+
 
 
 
