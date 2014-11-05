@@ -20,7 +20,7 @@ LibreOfficeを起動したばかりの初期状態では、
 
 ![サイドバーの表示2](../files/writer-sidebar2.png)
 
-![サイドバーの表示3](../files/writer-sidebar3.png)
+\![サイドバーの表示3](../files/writer-sidebar3.png)
 
 
 ## 編集記号を表示する
