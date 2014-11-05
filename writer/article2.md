@@ -17,7 +17,7 @@
 ツールバー[書式]-[ページ]をクリックします。
 
 
-![](../files/writer-page1.png)
+![ページスタイル1](../files/writer-page1.png)
 
 
 ![](../files/writer-page2.png)
