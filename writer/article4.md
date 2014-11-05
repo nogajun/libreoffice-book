@@ -7,4 +7,4 @@
 ![例題](../files/writer-sample1-after.png)
 
 
-##
+## 文字を揃える
