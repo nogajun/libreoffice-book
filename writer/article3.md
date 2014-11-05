@@ -4,7 +4,7 @@
 
 ----
 
-Libre
+LibreOfficeを起動した
 
 
 
