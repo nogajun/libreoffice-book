@@ -8,7 +8,7 @@
 
 以下のテキストを入力して、「講座の案内」文書を作成しましょう。
 
-
+![](/home/jun/SparkleShare/libreoffice-book/files/writer-sample1-before.png)
 
 ### 例文
 
