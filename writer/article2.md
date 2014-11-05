@@ -10,7 +10,7 @@
 
 ![例題](../files/writer-sample1-before.png)
 
-### 例文
+## 例文
 
 ```
 2016年4月4日
