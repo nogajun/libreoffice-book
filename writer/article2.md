@@ -19,7 +19,7 @@
 
 ![ページスタイル1](../files/writer-page1.png)
 
-
+ページダイアログから
 
 ![ページスタイル2](../files/writer-page2.png)
 
