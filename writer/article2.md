@@ -17,7 +17,7 @@
 ツールバー[書式]-[ページ]をクリックします。
 
 
-![](/home/jun/SparkleShare/libreoffice-book/files/writer-page1.png)
+![](../files/writer-page1.png)
 
 
 ![](/home/jun/SparkleShare/libreoffice-book/files/writer-page2.png)
