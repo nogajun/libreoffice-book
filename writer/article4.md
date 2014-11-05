@@ -6,3 +6,4 @@
 
 
 
+![](/home/jun/SparkleShare/libreoffice-book/files/writer-sample1-after.png)
