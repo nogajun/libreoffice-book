@@ -25,7 +25,7 @@ LibreOfficeは、無償で利用することができます。
 
 なぜ、無償で利用できるのか詳しくは後述しますが、LibreOffice開発の中心
 である財団法人「The Document Foundation」(ドキュメント財団)のマニフェ
-スト[manifesto]には、こう書いてあります。
+スト[^manifesto]には、こう書いてあります。
 
 > すべての人々が利用できる無償のオフィススィートを提供することにより、
 > デジタルデバイド(情報格差)を解消し、21世紀の市民として社会参加を可能
@@ -33,7 +33,7 @@ LibreOfficeは、無償で利用することができます。
 
 
 
-[manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
+[^manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
 
 ### オープンソース・ソフトウェア 
 
