@@ -24,8 +24,8 @@ LibreOffice(リブレオフィス)は、統合オフィスソフトです。
 LibreOfficeは、無償で利用することができます。
 
 なぜ無償で利用できるのか、LibreOffice開発の中心である財団法人「The
-Document Foundation」(ドキュメント財団)のマニフェスト[^manifesto]には、
-こう書いてあります。
+Document Foundation(TDF)」(ドキュメント財団)のマニフェスト[^manifesto]
+には、こう書いてあります。
 
 > すべての人々が利用できる無償のオフィススィートを提供することにより、
 > デジタルデバイド(情報格差)を解消し、21世紀の市民として社会参加を可能
@@ -59,16 +59,13 @@ LibreOfficeは、MPL/LGPLv3というソフトウェアライセンスのオー�
 コンピュータ「Raspberry Pi」で動くLibreOfficeに持って行っても、きちん
 と使うことができます。
 
-フォントの問題がありますが、フォントを埋め込むことにより、レイアウトの崩れは
-
-フォントは
-
-
 ### 多言語に対応
 
-LibreOfficeは、110言語に対応しています。
+LibreOfficeは、110言語[^language]に対応しています。前述のマニフェスト
 
-LibreOffice Fresh | LibreOffice - Free Office Suite - Fun Project - Fantastic People: http://www.libreoffice.org/download/libreoffice-fresh/?lang=pick
+
+
+[^language]: LibreOffice Fresh | LibreOffice - Free Office Suite - Fun Project - Fantastic People: http://www.libreoffice.org/download/libreoffice-fresh/?lang=pick
 
 
 
