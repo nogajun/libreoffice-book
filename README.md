@@ -2,7 +2,7 @@
 LibreOfficeの教科書
 ===================
 
-![LibreOfficeのロゴ](./files/LibreOffice_external_logo_600px.png)
+![LibreOfficeのロゴ](../files/LibreOffice_external_logo_600px.png)
 
 
 はじめに
