@@ -1,11 +1,17 @@
 # LibreOfficeとは
 
 LibreOffice(リブレオフィス)は、統合オフィスソフトです。
-日常業務の作業に必要とされる文書作成や表計算、プレゼンテーションなど6
-つのソフトがまとめられており、これらを連携して利用することができます。
 
-そしてLibreOfficeは、誰でも無償かつ自由に利用する事はもちろん、
-LibreOffice自体を開発することもできます。
+日常業務の作業に必要な文書作成や表計算、プレゼンテーションなどに利用で
+きる6つのソフトがひとつにまとめられており、これらを連携して利用するこ
+とができます。
+
+LibreOfficeは誰でも無償かつ自由に利用する事はもちろん、LibreOffice自体
+を開発することもできます。
+
+
+
+
 
 
 ## Libreofficeの特徴
@@ -50,6 +56,10 @@ The Document Foundation設立のマニュフェストには、こう書かれて
 Foundation (TDF:ドキュメント財団)が運営するプロジェクトに、さまざまな
 企業や団体、個人が参加して開発しています。
 
+
+オープンソース・ソフトウェアとして、ドイツに拠点を置くThe Document
+Foundation (TDF:ドキュメント財団)が運営する開発プロジェクトに、さまざ
+まな企業や団体、個人が参加して開発しています。
 
 
 - The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
