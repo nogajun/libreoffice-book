@@ -46,6 +46,9 @@ LibreOfficeは、MPL/LGPLv3というソフトウェアライセンスのオー�
 
 ### マルチプラットフォームで利用できる
 
+プラットフォームというのは、WindowsやMac OSといったOS(オペレーション・
+システム)を指します。
+
 LibreOfficeは、マルチプラットフォームで利用できます。
 
 WindowsやMacだけでなく、Linuxやその他UNIX系のOSや、
@@ -61,6 +64,7 @@ WindowsやMacだけでなく、Linuxやその他UNIX系のOSや、
 
 ### プログラミング言語「LOGO」を内蔵
 
+面白い特徴としては、LibreOfficeには
 
 
 ----
