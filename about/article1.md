@@ -82,14 +82,7 @@ LibreOfficeは、110言語(2014/11現在 [^language] )に対応しています�
 教育用プログラミング言語「LOGO」を移植した「LibreLogo」が内蔵されてい
 て、LibreOffice Writer上でプログラミングができます。
 
-Logoは、亀をプログラミングで制御して
 
-簡単なプログラミングで
-
-
-
-ちなみにマクロの言語としては、LibreOffice BASICのほかに Python,
-BeanShell, JavaScriptが利用できます。
 
 
 
