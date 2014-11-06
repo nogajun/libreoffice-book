@@ -70,14 +70,24 @@ LibreOfficeは、110言語(2014/11現在 [^language] )に対応しています�
 
 ### オープンドキュメント形式(ODF)と多くのファイル形式に対応
 
+LibreOfficeは、標準ファイル形式にオープンドキュメント形式(ODF:Open
+Document Format)を採用しています。
+
+ODFは、国際標準化機構(ISO)と国際電気標準会議(IEC)により「ISO/IEC 26300」
+として国際標準規格として認定されています。また、日本工業規格(JIS)にも
+「JISX4401」として認定されています。
 
 
 ### 拡張機能やMozilla Firefoxの簡易テーマを利用したカスタマイズ
 
+
+
+
 ### プログラミング言語「LOGO」を内蔵
 
 プログラミング言語といっても、LibreOfficeを制御するためのマクロではあ
-りません。
+りません。(マクロとしては、LibreOffice BASICのほかにPython, BeanShell,
+JavaScriptが利用できます。
 
 教育用プログラミング言語「LOGO」を移植した「LibreLogo」が内蔵されてい
 て、LibreOffice Writer上でプログラミングができます。
