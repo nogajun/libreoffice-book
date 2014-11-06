@@ -51,20 +51,29 @@ LibreOfficeは、MPL/LGPLv3というソフトウェアライセンスのオー�
 
 ### マルチプラットフォームで利用できる
 
-マルチプラットフォームのプラットフォームは、コンピュータを利用するため
-のOS(オペレーション・システム)のことで、WindowsやMacOS、Linuxといった
-ものを指します。マルチということは、複数に対応しているという
+プラットフォームとは、OS(オペレーティングシステム)のことで、
+LibreOfficeは、WindowsやMac、Linuxといった複数のOSに対応しています。
+
+たとえばWindows上で作成した文書をLinux上で編集して、Macに持って行っても
+
+3500円の教育用コンピュータ「Raspberry Pi」でも
+
+フォントの問題がありますが、フォントを埋め込むことにより、レイアウトの崩れは
+
+フォントは
 
 
 ### 多言語に対応
 
-110言語に対応
+LibreOfficeは、110言語に対応しています。
 
 LibreOffice Fresh | LibreOffice - Free Office Suite - Fun Project - Fantastic People: http://www.libreoffice.org/download/libreoffice-fresh/?lang=pick
 
 
 
 ### オープンドキュメント形式(ODF)と多くのファイル形式に対応
+
+
 
 ### 拡張機能やMozilla Firefoxの簡易テーマを利用したカスタマイズ
 
@@ -74,7 +83,8 @@ LibreOffice Fresh | LibreOffice - Free Office Suite - Fun Project - Fantastic Pe
 ではありません。
 
 LibreOfficeには、教育用プログラミング言語「LOGO」を移植した「LibreLogo」
-が内蔵されています。
+が内蔵されていて、LibreOffice Writer上でプログラミングすることができま
+す。
 
 Logoは、亀をプログラミングで制御して
 
@@ -82,8 +92,8 @@ Logoは、亀をプログラミングで制御して
 
 
 
-ちなみにマクロの言語としては、VBAのようなLibreOffice BASICのほかに
-Python, BeanShell, JavaScriptが利用できます。
+ちなみにマクロの言語としては、LibreOffice BASICのほかに Python,
+BeanShell, JavaScriptが利用できます。
 
 
 
@@ -102,7 +112,7 @@ Foundation(TDF)」(ドキュメント財団)が中心となって運営する開
 
 ## LibreOfficeは、なぜ無償で利用できるか
 
-特徴で無償である理由として「情報格差解消のため」と述べましたが、
+特徴で、無償である理由は「情報格差解消のため」と述べましたが、
 LibreOfficeが無償である理由は、それ以外の理由もあります。
 
 ビジネスモデルの違いも上げられます。ほかのオフィスソフトは、オフィスソ
