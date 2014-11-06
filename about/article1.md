@@ -33,9 +33,10 @@ Document Foundation」(ドキュメント財団)のマニフェスト[^manifesto
 
 
 
+
 [^manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
 
-### オープンソース・ソフトウェア
+### オープンソース・ソフトウェア 
 
 LibreOfficeは、MPL/LGPLv3というソフトウェアライセンスのオープンソース・
 ソフトウェアです。
