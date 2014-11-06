@@ -86,8 +86,10 @@ PDFの書き出しでは、通常の書き出しのほかにPDFにODFを埋込�
 
 ### 拡張機能やMozilla Firefoxの簡易テーマを利用したカスタマイズ
 
+拡張機能を利用して、LibreOfficeに機能を追加できます。
 
 
+LibreOffice Extensions: http://extensions.libreoffice.org/
 
 ### プログラミング言語「LOGO」を内蔵
 
