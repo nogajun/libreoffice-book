@@ -53,6 +53,8 @@ WindowsやMacだけでなく、Linuxやその他UNIX系のOSや、
 
 ### 多言語に対応
 
+
+
 ### オープンドキュメント形式(ODF)と多くのファイル形式に対応
 
 ### 拡張機能やMozilla Firefoxの簡易テーマを利用したカスタマイズ
@@ -66,7 +68,7 @@ WindowsやMacだけでなく、Linuxやその他UNIX系のOSや、
 ## LibreOfficeは、誰が開発しているのか
 
 LibreOfficeの開発は、ドイツに拠点を置く財団法人「The Document
-Foundation」(ドキュメント財団)が中心となって運営する開発プロジェクトに、
+Foundation(TDF)」(ドキュメント財団)が中心となって運営する開発プロジェクトに、
 さまざまな企業や団体、個人が参加して開発しています。
 
 
