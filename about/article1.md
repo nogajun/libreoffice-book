@@ -114,5 +114,3 @@ LibreOfficeで、まず最初に言われることが「無償で利用できる
 導入のサービスであったり、導入後のサポートや自社サービスの一つとして組み込んでの利用
 
 
-- The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
-- TDFマニフェスト - The Document Foundation Wiki: https://wiki.documentfoundation.org/TDF/Next_Decade_Manifesto/ja
