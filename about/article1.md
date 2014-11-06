@@ -31,8 +31,7 @@ Document Foundation」(ドキュメント財団)のマニフェスト[^manifesto
 > デジタルデバイド(情報格差)を解消し、21世紀の市民として社会参加を可能
 > にする。
 
-
-
+このような目的により、LibreOfficeは無償で提供されています。
 
 [^manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
 
@@ -77,9 +76,18 @@ LibreOffice Fresh | LibreOffice - Free Office Suite - Fun Project - Fantastic Pe
 
 ### プログラミング言語「LOGO」を内蔵
 
-LibreOfficeには教育用プログラミング言語の「LOGO」
+プログラミング言語といっても、LibreOfficeを制御するためのマクロのこと
+ではありません。LibreOffice Writer上でプログラミングできる
 
-マクロではありません。ちなみにマクロはLibreOffice BASIC, Python, JavaScript
+LibreOfficeには、「LibreLogo」という教育用プログラミング言語「LOGO」が
+内蔵されています。LOGOは
+
+
+
+ちなみにマクロの言語としては、VBAのようなLibreOffice BASICのほかに
+Python, BeanShell, JavaScriptが利用できます。
+
+
 
 
 ----
