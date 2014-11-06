@@ -86,10 +86,20 @@ PDFの書き出しでは、通常の書き出しのほかにPDFにODFを埋込�
 
 ### 拡張機能やMozilla Firefoxの簡易テーマを利用したカスタマイズ
 
-拡張機能を利用して、LibreOfficeに便利な機能が追加できます。
+LibreOffice Extensions[^extension]で配布されている拡張機能を利用すると、
+LibreOfficeに便利な機能が追加できます。
+
+一例としては、辞書や画像集のほか、パブリックドメインの画像を配布する
+openclipart[^openclipart]を検索してその画像を挿入できるようにする拡張
+機能や、Microsoft OfficeのSmartArtに似た図形を作成する拡張機能などがあ
+ります。
+
+また、Mozilla
 
 
-LibreOffice Extensions: http://extensions.libreoffice.org/
+[^extension] LibreOffice Extensions: http://extensions.libreoffice.org/
+[^openclipart] Clipart: https://openclipart.org/
+
 
 ### プログラミング言語「LOGO」を内蔵
 
