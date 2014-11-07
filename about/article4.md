@@ -1,6 +1,6 @@
 # LibreOfficeについて、よく尋ねられること
 
-### LibreOfficeは、誰が開発しているのか
+## LibreOfficeは、誰が開発しているのか
 
 LibreOfficeの開発は、ドイツに拠点を置く財団法人「The Document
 Foundation(TDF)」(ドキュメント財団)が中心となって運営する開発プロジェ
