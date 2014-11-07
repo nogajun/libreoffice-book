@@ -78,7 +78,7 @@ ODFは、国際標準化機構(ISO)と国際電気標準会議(IEC)により「I
 PDFの書き出しでは、通常の書き出しのほかにPDFにODFを埋込み、LibreOffice
 で編集可能なハイブリッドファイルとしての書き出しもできます。
 
-### 拡張機能やMozilla Firefoxの簡易テーマを利用したカスタマイズ
+### 拡張機能やMozilla Firefoxのテーマを利用したカスタマイズ
 
 [LibreOffice Extensions](http://extensions.libreoffice.org/)で配布されている拡張機能を利用すると、
 LibreOfficeに便利な機能が追加できます。
