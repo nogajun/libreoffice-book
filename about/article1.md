@@ -87,7 +87,7 @@ PDFの書き出しでは、通常の書き出しのほかにPDFにODFを埋込�
 LibreOfficeに便利な機能が追加できます。
 
 一例としては、辞書や画像集のほか、パブリックドメインの画像を配布する
-openclipart[^openclipart]を検索してその画像を挿入できるようにする拡張
+[openclipart](https://openclipart.org/)を検索してその画像を挿入できるようにする拡張
 機能や、Microsoft OfficeのSmartArtに似た図形を作成する拡張機能などがあ
 ります。
 
