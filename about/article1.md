@@ -29,7 +29,7 @@ Document Foundation(TDF)」(ドキュメント財団)のマニフェスト[^mani
 
 > すべての人々が利用できる無償のオフィススィートを提供することにより、
 > デジタルデバイド(情報格差)を解消し、21世紀の市民として社会参加を可能
-> にする。
+> にします。
 
 このような目的により、LibreOfficeは無償で提供されています。
 
@@ -103,12 +103,12 @@ openclipart[^openclipart]を検索してその画像を挿入できるように�
 
 ### プログラミング言語「LOGO」を内蔵
 
-プログラミング言語といっても、LibreOfficeを制御するためのマクロではあ
-りません。(マクロとしては、LibreOffice BASICのほかにPython, BeanShell,
-JavaScriptが利用できます。
+「プログラミング言語」といっても、LibreOfficeを制御するためのマクロで
+はありません。(マクロとしては、LibreOffice BASICのほかにPython,
+BeanShell, JavaScriptが利用できます。
 
-教育用プログラミング言語「LOGO」を移植した「LibreLogo」が内蔵されてい
-て、LibreOffice Writer上でプログラミングができます。
+LibreOfficeに教育用プログラミング言語「LOGO」を移植した「LibreLogo」が
+内蔵されていて、LibreOffice Writer上でプログラミングができます。
 
 
 ----
