@@ -71,7 +71,7 @@ ODFは、国際標準化機構(ISO)と国際電気標準会議(IEC)により「I
 として国際標準規格として認定されています。また、日本工業規格(JIS)にも
 「JISX4401」として認定されています。
 
-ほかには、Microsoft Officeで利用されているdoc、xls、pptの形式や、2007
+ほかには、Microsoft Officeで利用されているdoc、xls、ppt形式や、2007
 以降で利用されているOOXML(docx、xlsx、pptx)形式の読み込みと書き出しに
 も対応しています。
 
