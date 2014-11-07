@@ -91,7 +91,7 @@ openclipart[^openclipart]を検索してその画像を挿入できるように�
 機能や、Microsoft OfficeのSmartArtに似た図形を作成する拡張機能などがあ
 ります。
 
-また、Mozilla Firefoxのテーマ[^fxtheme](旧名:ペルソナ)を使って見た目の
+また、Mozilla Firefoxのテーマ[^fxtheme] (旧名:ペルソナ)を使って見た目の
 変更もできます。
 
 [^extension] LibreOffice Extensions: http://extensions.libreoffice.org/
