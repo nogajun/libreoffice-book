@@ -58,11 +58,9 @@ LibreOfficeは、MPL/LGPLv3というソフトウェアライセンスのオー�
 
 ### 多言語に対応
 
-LibreOfficeは、[110言語に対応](2014/11現在)しています。
+LibreOfficeは、[110言語に対応](http://www.libreoffice.org/download/libreoffice-fresh/?lang=pick) (2014/11現在)しています。
 前述のTDFマニフェストには、母国語の保護と支援も掲げられていて、母国語
 への翻訳は奨励されています。
-
-[^language]: LibreOffice Fresh | LibreOffice - Free Office Suite - Fun Project - Fantastic People:
 
 ### オープンドキュメント形式(ODF)と多くのファイル形式に対応
 
