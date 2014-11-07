@@ -96,7 +96,7 @@ openclipart[^openclipart]を検索してその画像を挿入できるように�
 
 [^extension] LibreOffice Extensions:
 
-[^openclipart] Clipart: https://openclipart.org/
+[^openclipart] Clipart:
 
 [^fxtheme] テーマ :: Add-ons for Firefox: https://addons.mozilla.org/ja/firefox/themes/
 
