@@ -94,9 +94,6 @@ LibreOfficeに便利な機能が追加できます。
 また、Mozilla Firefoxのテーマ[^fxtheme] (旧名:ペルソナ)を使って見た目の
 変更もできます。
 
-[^extension] LibreOffice Extensions:
-
-[^openclipart] Clipart:
 
 [^fxtheme] テーマ :: Add-ons for Firefox: https://addons.mozilla.org/ja/firefox/themes/
 
