@@ -1,4 +1,4 @@
-# LibreOfficeについてよく尋ねられること
+# LibreOfficeについて、よく尋ねられること
 
 ### LibreOfficeは、誰が開発しているのか
 
