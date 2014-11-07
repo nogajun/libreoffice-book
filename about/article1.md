@@ -95,7 +95,7 @@ LibreOfficeに便利な機能が追加できます。
 変更もできます。
 
 
-[^fxtheme] テーマ :: Add-ons for Firefox: https://addons.mozilla.org/ja/firefox/themes/
+[^fxtheme] テーマ :: Add-ons for Firefox:
 
 ### プログラミング言語「LOGO」を内蔵
 
