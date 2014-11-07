@@ -107,7 +107,6 @@ BeanShell, JavaScriptが利用できます。
 LibreOfficeに教育用プログラミング言語「LOGO」を移植した「LibreLogo」が
 内蔵されていて、LibreOffice Writer上でプログラミングができます。
 
-
 ----
 
 ## LibreOfficeは、誰が開発しているのか
