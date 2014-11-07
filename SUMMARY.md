@@ -5,6 +5,7 @@
    * [LibreOfficeとは](about/article1.md)
    * [アプリケーションの種類と特徴](about/article2.md)
    * [本書の取り上げる範囲](about/article3.md)
+   * [article4](about/article4)
 * [Writerを使う(文書作成)](writer/README.md)
    * [Writerの画面構成](writer/article1.md)
    * [文書作成の環境を整える](writer/article3.md)
