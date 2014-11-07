@@ -59,6 +59,7 @@ LibreOfficeは、MPL/LGPLv3というソフトウェアライセンスのオー�
 ### 多言語に対応
 
 LibreOfficeは、[110言語に対応](http://www.libreoffice.org/download/libreoffice-fresh/?lang=pick) (2014/11現在)しています。
+
 前述のTDFマニフェストにも、母国語の保護と支援も掲げられていて、母国語
 への翻訳と対応は奨励されています。
 
@@ -80,21 +81,24 @@ PDFの書き出しでは、通常の書き出しのほかにPDFにODFを埋込�
 
 ### 拡張機能やMozilla Firefoxのテーマを利用したカスタマイズ
 
-[LibreOffice Extensions](http://extensions.libreoffice.org/)で配布されている拡張機能を利用すると、
-LibreOfficeに便利な機能が追加できます。
+[LibreOffice Extensions](http://extensions.libreoffice.org/)で配布され
+ている拡張機能を利用すると、LibreOfficeに便利な機能が追加できます。
 
 一例としては、辞書や画像集のほか、パブリックドメインの画像を配布する
-[openclipart](https://openclipart.org/)を検索してその画像を挿入できるようにする拡張
-機能や、Microsoft OfficeのSmartArtに似た図形を作成する拡張機能などがあ
-ります。
+[openclipart](https://openclipart.org/)を検索してその画像を挿入できる
+ようにする拡張機能や、Microsoft OfficeのSmartArtに似た図形を作成する拡
+張機能などがあります。
 
-また、[Mozilla Firefoxのテーマ](https://addons.mozilla.org/ja/firefox/themes/) (旧名:ペルソナ)を使って見た目の変更もできます。
+また、
+[Mozilla Firefoxのテーマ](https://addons.mozilla.org/ja/firefox/themes/)
+(旧名:ペルソナ)を使って見た目の変更もできます。
 
 ### プログラミング言語「LOGO」を内蔵
 
 「プログラミング言語」といっても、LibreOfficeを制御するためのマクロで
-はありません。(マクロとしては、LibreOffice BASICのほかにPython,
-BeanShell, JavaScriptが利用できます。
+はありません。
+(マクロとしては、LibreOffice BASICのほかにPython, BeanShell,
+JavaScriptが利用できます。
 
 LibreOfficeに教育用プログラミング言語「LOGO」を移植した「LibreLogo」が
 内蔵されていて、LibreOffice Writer上でプログラミングができます。
