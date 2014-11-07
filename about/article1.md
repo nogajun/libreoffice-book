@@ -95,7 +95,9 @@ openclipart[^openclipart]を検索してその画像を挿入できるように�
 変更もできます。
 
 [^extension] LibreOffice Extensions: http://extensions.libreoffice.org/
+
 [^openclipart] Clipart: https://openclipart.org/
+
 [^fxtheme] テーマ :: Add-ons for Firefox: https://addons.mozilla.org/ja/firefox/themes/
 
 ### プログラミング言語「LOGO」を内蔵
