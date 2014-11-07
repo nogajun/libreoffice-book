@@ -94,7 +94,7 @@ openclipart[^openclipart]を検索してその画像を挿入できるように�
 また、Mozilla Firefoxのテーマ[^fxtheme] (旧名:ペルソナ)を使って見た目の
 変更もできます。
 
-[^extension] LibreOffice Extensions: http://extensions.libreoffice.org/
+[^extension] LibreOffice Extensions:
 
 [^openclipart] Clipart: https://openclipart.org/
 
