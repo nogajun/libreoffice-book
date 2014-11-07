@@ -91,11 +91,8 @@ LibreOfficeに便利な機能が追加できます。
 機能や、Microsoft OfficeのSmartArtに似た図形を作成する拡張機能などがあ
 ります。
 
-また、[Mozilla Firefoxのテーマ (旧名:ペルソナ)を使って見た目の
+また、[Mozilla Firefoxのテーマ](https://addons.mozilla.org/ja/firefox/themes/) (旧名:ペルソナ)を使って見た目の
 変更もできます。
-
-
-[^fxtheme] テーマ :: Add-ons for Firefox:
 
 ### プログラミング言語「LOGO」を内蔵
 
