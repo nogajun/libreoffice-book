@@ -101,5 +101,6 @@ PDFの書き出しでは、通常の書き出しのほかにPDFにODFを埋込�
 JavaScriptが利用できます。
 
 LibreOfficeに教育用プログラミング言語「LOGO」を移植した「LibreLogo」が
-内蔵されていて、LibreOffice Writer上でプログラミングができます。
+内蔵されていて、LibreOffice Writer上で亀を動かしてグラフィックを書くプ
+ログラミングができます。
 
