@@ -33,7 +33,7 @@ Document Foundation(TDF)」(ドキュメント財団)のマニフェスト[^mani
 
 このような目的により、LibreOfficeは無償で提供されています。
 
-- [^manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
+[^manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
 
 ### オープンソース・ソフトウェア
 
