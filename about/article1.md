@@ -25,7 +25,7 @@ LibreOfficeは、無償で利用することができます。
 
 なぜ無償で利用できるのか、LibreOffice開発の中心である財団法人「The
 Document Foundation(TDF)」(ドキュメント財団)の
-[マニフェスト][manifesto]には、こう書いてあります。
+マニフェスト [^1] には、こう書いてあります。
 
 > すべての人々が利用できる無償のオフィススィートを提供することにより、
 > デジタルデバイド(情報格差)を解消し、21世紀の市民として社会参加を可能
@@ -33,7 +33,6 @@ Document Foundation(TDF)」(ドキュメント財団)の
 
 このような目的により、LibreOfficeは無償で提供されています。
 
-[manifesto]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
 
 ### オープンソース・ソフトウェア
 
@@ -104,3 +103,6 @@ LibreOfficeに教育用プログラミング言語「LOGO」を移植した「Li
 内蔵されていて、LibreOffice Writer上で亀を動かしてグラフィックを書くプ
 ログラミングができます。
 
+----
+
+[^1]: The Document Foundation » The Document Foundation: http://www.documentfoundation.org/foundation/
