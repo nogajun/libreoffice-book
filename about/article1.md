@@ -23,7 +23,7 @@ LibreOffice(リブレオフィス)は、統合オフィスソフトです。
 
 LibreOfficeは、無償で利用することができます。
 
-なぜ無償で利用できるのか、LibreOffice開発の中心である財団法人「The
+なぜ無償で利用できるのか、LibreOffice開発の中心である「The
 Document Foundation(TDF)」(ドキュメント財団)の
 マニフェスト [^1] には、こう書いてあります。
 
