@@ -4,8 +4,13 @@ The Document Foundation (ドキュメント財団) http://www.documentfoundation
 
 ## オープンソース・ソフトウェア
 
-Open Source Software。Open Source Initiativeが定義した「オープンソースの定義」に当てはまるソフトウェアライセンスを適用したソフトウェア。
+Open Source Software(オープンソース・ソフトウェア)は、Open Source Initiativeが定義した「オープンソースの定義」に当てはまるソフトウェアライセンスを適用したソフトウェア。
 
 ## ODF
 
-オープンドキュメント形式 (Open Document Format)
+Open Document Format(オープンドキュメント形式)は、LibreOfficeをはじめ、Apache OpenOfficeなどで利用されているファイル形式。
+
+## OOXML
+
+Office Open XMLは、Microsoft Office 2007以降で利用されているファイル形式。
+
